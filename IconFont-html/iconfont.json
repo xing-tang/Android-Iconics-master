@@ -1,0 +1,324 @@
+{
+  "id": "2830373",
+  "name": "cb_iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "24805287",
+      "name": "hechang",
+      "font_class": "hechang",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "24805271",
+      "name": "random",
+      "font_class": "random",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "24805270",
+      "name": "font",
+      "font_class": "font",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "24559381",
+      "name": "icon9_open arrows@3x",
+      "font_class": "openarrows",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "24559382",
+      "name": "icon12_album num@3x",
+      "font_class": "album_num",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "24559383",
+      "name": "icon9_close arrows@3x",
+      "font_class": "close_arrows",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "24559384",
+      "name": "icon16_attention@3x",
+      "font_class": "attention",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "24559385",
+      "name": "icon12_right arrows_gray@3x",
+      "font_class": "rightarrows_gray",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "24559386",
+      "name": "icon16_sing a song@3x",
+      "font_class": "singasong",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "24559387",
+      "name": "icon12_earphone num@3x",
+      "font_class": "earphone_num",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "24559388",
+      "name": "icon16_edit@3x",
+      "font_class": "edit",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "24559389",
+      "name": "icon12_person num@3x",
+      "font_class": "person_num",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "24559390",
+      "name": "icon24_share@3x",
+      "font_class": "share",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "24559391",
+      "name": "icon20_liked@3x",
+      "font_class": "liked",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "24559392",
+      "name": "icon28_auto stop@3x",
+      "font_class": "autostop",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "24559393",
+      "name": "icon28_collected@3x",
+      "font_class": "collected",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "24559394",
+      "name": "icon16_topic@3x",
+      "font_class": "topic",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "24559395",
+      "name": "icon28_Create playlist@3x",
+      "font_class": "Createplaylist",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "24559396",
+      "name": "icon28_nextsong@3x",
+      "font_class": "nextsong",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "24559397",
+      "name": "icon28_cancel top@3x",
+      "font_class": "canceltop",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "24559398",
+      "name": "icon28_last song@3x",
+      "font_class": "lastsong",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "24559399",
+      "name": "icon28_playbtn@3x",
+      "font_class": "playbtn",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "24559400",
+      "name": "icon24_tabgift@3x",
+      "font_class": "tabgift",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "24559401",
+      "name": "icon28_cycle@3x",
+      "font_class": "cycle",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "24559402",
+      "name": "icon28_no export@3x",
+      "font_class": "noexport",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "24559403",
+      "name": "icon20_unlike@3x",
+      "font_class": "unlike",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "24559404",
+      "name": "icon12_gift_gray@3x",
+      "font_class": "gift_gray",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "24559405",
+      "name": "icon28_cancel pass@3x",
+      "font_class": "cancelpass",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "24559406",
+      "name": "icon28_single loop@3x",
+      "font_class": "singleloop",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "24559407",
+      "name": "icon28_noupload@3x",
+      "font_class": "noupload",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "24559408",
+      "name": "icon28_edit list@3x",
+      "font_class": "editlist",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "24559409",
+      "name": "icon28_emoji@3x",
+      "font_class": "emoji",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "24559410",
+      "name": "icon28_pass@3x",
+      "font_class": "pass",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "24559411",
+      "name": "icon28_report@3x",
+      "font_class": "report",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "24559412",
+      "name": "icon28_danmu_on@3x",
+      "font_class": "danmu_on",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "24559413",
+      "name": "icon28_danmu_off@3x",
+      "font_class": "danmu_off",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "24559414",
+      "name": "icon28_on recommend@3x",
+      "font_class": "onrecommend",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "24559415",
+      "name": "icon28_no export ring@3x",
+      "font_class": "noexportring",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "24559416",
+      "name": "icon28_ontop@3x",
+      "font_class": "ontop",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "24559417",
+      "name": "icon28_stopbtn@3x",
+      "font_class": "stopbtn",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "24559418",
+      "name": "icon28_messenger bottle@3x",
+      "font_class": "messengerbottle",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "24559419",
+      "name": "icon28_upload@3x",
+      "font_class": "upload",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "24559420",
+      "name": "icon28_songhomepage@3x",
+      "font_class": "songhomepage",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "24559421",
+      "name": "icon28_ring@3x",
+      "font_class": "ring",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "24559422",
+      "name": "icon28_uncollect@3x",
+      "font_class": "uncollect",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}

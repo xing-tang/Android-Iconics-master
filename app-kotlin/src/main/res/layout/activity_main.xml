@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.open.iconics.view.IconicsButton
+        android:id="@+id/iconics_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="IconicsButton" />
+
+    <com.open.iconics.view.IconicsButton
+        android:id="@+id/iconics_image_view"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="IconicsImageView" />
+
+    <com.open.iconics.view.IconicsButton
+        android:id="@+id/iconics_image_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="IconicsImageButton" />
+
+    <com.open.iconics.view.IconicsButton
+        android:id="@+id/iconics_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:padding="0dp"
+        android:text="IconicsTextView" />
+
+    <com.open.iconics.view.IconicsButton
+        android:id="@+id/iconics_compound_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="IconicsCompoundButton" />
+
+    <com.open.iconics.view.IconicsButton
+        android:id="@+id/iconics_check_box"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="IconicsCheckBox" />
+
+    <com.open.iconics.view.IconicsButton
+        android:id="@+id/iconics_checkable_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="IconicsCheckableTextView" />
+
+</LinearLayout>

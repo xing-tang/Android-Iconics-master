@@ -1,0 +1,5 @@
+include ':app-java'
+include ':app-kotlin'
+include ':iconics-java'
+include ':iconics-kotlin'
+rootProject.name = "Android-Iconics-master"

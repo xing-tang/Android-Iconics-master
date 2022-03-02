@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.open.iconics">
+
+    <application
+        android:name=".application.BaseApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AndroidIconicsmaster"
+        tools:ignore="GoogleAppIndexingWarning">
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="${applicationId}.androidx-startup"
+            android:exported="false"
+            tools:node="merge">
+            <!-- 注册字体库 -->
+            <meta-data
+                android:name="com.open.iconics.iconfont.Initializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="com.open.iconics.animation.SpinProcessor"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="com.open.iconics.animation.BlinkAlphaProcessor"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="com.open.iconics.animation.BlinkScaleProcessor"
+                android:value="androidx.startup" />
+        </provider>
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".IconicsButtonActivity" />
+        <activity android:name=".IconicsImageButtonActivity" />
+        <activity android:name=".IconicsImageViewActivity" />
+        <activity android:name=".IconicsTextViewActivity" />
+        <activity android:name=".IconicsCompoundButtonActivity" />
+        <activity android:name=".IconicsCheckableTextViewActivity" />
+        <activity android:name=".IconicsCheckBoxActivity" />
+    </application>
+
+</manifest>

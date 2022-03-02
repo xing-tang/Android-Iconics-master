@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".IconicsCheckBoxActivity">
+
+    <com.open.iconics.view.IconicsCheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:background="#d6d7d7"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="IconicsCheckBox"
+        app:iiv_checked_color="@color/primary"
+        app:iiv_checked_icon="font_liked"
+        app:iiv_checked_size="24dp"
+        app:iiv_unchecked_color="@color/primary"
+        app:iiv_unchecked_icon="font_unlike"
+        app:iiv_unchecked_size="24dp" />
+
+    <com.open.iconics.view.IconicsCheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:background="#d6d7d7"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="Iconics{font_createplaylist}CheckBox{font_nextsong}"
+        app:iiv_checked_color="@color/primary"
+        app:iiv_checked_icon="font_liked"
+        app:iiv_checked_size="24dp"
+        app:iiv_unchecked_color="@color/primary"
+        app:iiv_unchecked_icon="font_unlike"
+        app:iiv_unchecked_size="24dp" />
+
+    <com.open.iconics.view.IconicsCheckBox
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:background="#d6d7d7"
+        android:gravity="center"
+        android:padding="5dp"
+        app:iiv_checked_color="@color/primary"
+        app:iiv_checked_icon="font_playbtn"
+        app:iiv_checked_size="24dp"
+        app:iiv_unchecked_color="@color/primary"
+        app:iiv_unchecked_icon="font_stopbtn"
+        app:iiv_unchecked_size="24dp" />
+
+</LinearLayout>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="rtl"
+    android:orientation="vertical"
+    tools:context=".IconicsImageViewActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:background="#d6d7d7"
+        android:gravity="center_vertical"
+        android:layoutDirection="rtl"
+        android:orientation="horizontal">
+
+        <com.open.iconics.view.IconicsImageView
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:padding="24dp"
+            app:iiv_automirror="true"
+            app:iiv_color="?android:textColorPrimary"
+            app:iiv_icon="font_singasong" />
+
+        <com.open.iconics.view.IconicsImageView
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:padding="24dp"
+            app:iiv_automirror="false"
+            app:iiv_color="?android:textColorPrimary"
+            app:iiv_icon="font_singasong" />
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/image_view"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:background="#d6d7d7"
+        android:src="@drawable/common_favorite"
+        app:tint="@color/red" />
+
+    <com.open.iconics.view.IconicsImageView
+        android:id="@+id/image_iconics_view"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        android:background="#d6d7d7"
+        app:iiv_automirror="true"
+        app:iiv_background_color="@color/yellow"
+        app:iiv_background_contour_color="@color/md_blue_grey_800"
+        app:iiv_background_contour_width="2dp"
+        app:iiv_color="@color/red"
+        app:iiv_contour_color="@color/blue"
+        app:iiv_contour_width="2dp"
+        app:iiv_corner_radius="60dp"
+        app:iiv_icon="font_liked"
+        app:iiv_padding="10dp"
+        app:iiv_shadow_color="@color/black"
+        app:iiv_shadow_dx="1dp"
+        app:iiv_shadow_dy="1dp"
+        app:iiv_shadow_radius="1dp"
+        app:iiv_size="120dp" />
+
+</LinearLayout>
